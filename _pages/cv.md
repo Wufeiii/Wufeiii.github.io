@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng., National University of Defense technology, 2025
+* B.Eng., National University of Defense Technology, 2025
 
 
 Work experience
