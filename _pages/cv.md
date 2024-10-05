@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Undergraduate in Automation, National University of Defense technology, 2021
+* B.Eng., National University of Defense technology, 2025
 
 
 Work experience
